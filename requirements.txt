@@ -1,0 +1,12 @@
+numpy == 1.21
+pandas
+tqdm
+wordcloud
+matplotlib
+black
+top2vec
+joblib ==1.1.0
+scikit-learn
+sparse_dot_topn
+python-decouple
+cython 
